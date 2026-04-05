@@ -22,9 +22,7 @@ Built with the needs of agencies like **UNFPA, UNICEF, and WHO** in mind.
 | Visual | Description |
 |--------|-------------|
 | 📉 **Line Chart** | Under-five mortality trends (2000–2023) across 5 countries |
-| 📊 **Bar Chart** | Country comparison — latest available year |
-| 🔥 **Heatmap** | Mortality by country and decade |
-| 🔁 **Before/After** | Progress made from 1990 to today |
+
 
 ---
 
