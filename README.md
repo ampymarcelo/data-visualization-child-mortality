@@ -26,7 +26,7 @@ Built with the needs of agencies like **UNFPA, UNICEF, and WHO** in mind.
 
 ---
 
-## 🗺️ Countries Covered
+## Countries Covered
 
 **Madagascar · Kenya · Nigeria · Ethiopia · World average**
 
